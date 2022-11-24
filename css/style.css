@@ -12,6 +12,10 @@
     padding: 0 2%;
 }
 
+header {
+    padding: 20px 0;
+}
+
 .logo {
-    widht: 50%;
+    width: 50%;
 }
