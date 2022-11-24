@@ -8,5 +8,10 @@
     display: flex;
     flex-wrap: wrap;
     max-width: 1100px;
+    margin: 0 auto;
     padding: 0 2%;
+}
+
+.logo {
+    widht: 50%;
 }
