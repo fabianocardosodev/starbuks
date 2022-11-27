@@ -39,3 +39,17 @@
         font-weight: bold;
         margin-right: 15px;
     }
+    
+    section.sobre {
+        height: calc(100% - 200px);
+        position: relative;
+    }
+    
+    .extras {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        width: 200px;
+        height: 200px;
+        background-color: green;
+    }
