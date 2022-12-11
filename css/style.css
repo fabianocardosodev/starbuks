@@ -17,6 +17,7 @@
     body {
         height: 100%;
         overflow-y: hidden;
+        overflow-x: hidden;
     }
     
     header {
@@ -47,9 +48,14 @@
     
     .extras {
         position: absolute;
-        bottom: 0;
-        right: 0;
-        width: 200px;
-        height: 200px;
-        background-color: green;
+        bottom: -200px;
+        right: -200px;
+        width: 600px;
+        height: 600px;
+        border-radius: 50%;
+        background-color: #046443;
+    }
+    
+    .extras img {
+        padding: -200px;
     }
