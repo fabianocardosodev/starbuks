@@ -57,5 +57,7 @@
     }
     
     .extras img {
-        padding: -200px;
+        position: absolute;
+        padding: -150px;
+        width: 80%;
     }
